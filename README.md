@@ -2,7 +2,7 @@
 
 A mission-control theme for Obsidian. Your notes sit on a near-black void with a perspective grid floor that fades in from the bottom. Headings, links and live values glow. Dark mode runs **red**. Light mode runs **cyan**. Both stay dark.
 
-![The Grid](screenshot.png)
+![The Grid](screenshots/00-banner.png)
 
 ## Two modes
 
@@ -10,6 +10,26 @@ A mission-control theme for Obsidian. Your notes sit on a near-black void with a
 - **Light mode (cyan):** cool cyan instruments on a black-blue void.
 
 Switch between them with Obsidian's own setting: **Settings → Appearance → Base color scheme**.
+
+## Gallery
+
+**Dark mode: notes**
+![Dark mode notes with callouts and properties](screenshots/01-red-notes.png)
+
+**Dark mode: code, quotes and lists**
+![Dark mode code block, quote and list](screenshots/02-red-code.png)
+
+**Dark mode: graph view**
+![Glowing red graph view](screenshots/03-red-graph.png)
+
+**Dark mode: local graph beside a note**
+![Glowing red local graph in the sidebar](screenshots/04-red-local-graph.png)
+
+**Light mode: notes**
+![Cyan light mode notes](screenshots/05-cyan-notes.png)
+
+**Light mode: graph view**
+![Glowing cyan graph view](screenshots/06-cyan-graph.png)
 
 ## What it styles
 

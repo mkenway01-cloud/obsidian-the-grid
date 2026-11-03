@@ -1028,12 +1028,12 @@ body {
 
   .markdown-rendered :is(h1, strong),
   .inline-title {
-    text-shadow: none !important;
+    text-shadow: none;
   }
 
   .callout,
   .markdown-rendered blockquote,
   .markdown-rendered pre {
-    background: #f4f9fb !important;
+    background: #f4f9fb;
   }
 }
